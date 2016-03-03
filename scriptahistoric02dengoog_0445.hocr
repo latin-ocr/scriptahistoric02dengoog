@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./scriptahistoric02dengoog_0445.png"; bbox 0 0 2950 4684; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 27 2472 28 2982">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 27 2472 28 2982">
+     <span class='ocr_line' id='line_1_1' title="bbox 27 2472 28 2982; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 27 2472 28 2982; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 325 38 577 1805">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 325 38 577 1805">
+     <span class='ocr_line' id='line_1_2' title="bbox 325 38 577 1805; baseline 0 0"><span class='ocrx_word' id='word_1_2' title='bbox 325 38 577 1805; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 335 2010 570 2027">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 335 2010 570 2027">
+     <span class='ocr_line' id='line_1_3' title="bbox 335 2010 570 2027; baseline 0 2657"><span class='ocrx_word' id='word_1_3' title='bbox 335 2010 570 2027; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 342 3965 569 4107">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 342 3965 569 4107">
+     <span class='ocr_line' id='line_1_4' title="bbox 343 3965 569 4041; baseline 0 -24"><span class='ocrx_word' id='word_1_4' title='bbox 343 3965 569 4041; x_wconf 65' lang='lat' dir='ltr'><strong>lymffpeu</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 342 4039 567 4107; baseline 0.004 -17"><span class='ocrx_word' id='word_1_5' title='bbox 342 4078 358 4107; x_wconf 83' lang='lat'>‚</span> <span class='ocrx_word' id='word_1_6' title='bbox 412 4039 475 4091; x_wconf 85' lang='lat' dir='ltr'>R.</span> <span class='ocrx_word' id='word_1_7' title='bbox 513 4039 567 4091; x_wconf 83' lang='lat' dir='ltr'>D</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
